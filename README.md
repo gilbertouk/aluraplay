@@ -4,6 +4,12 @@
 
 _This repository was used to document my learning of Flexbox and responsive layouts acquired through the Alura course (The largest online technology school in Brazil) available at the following [course link](https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos)_
 
+## Demo
+
+<p>A demo of the website developed during the course is available following the link below.</p>
+
+[demo](https://aluraplay-seven-beta.vercel.app/)
+
 ### About the course
 
 <p>The course is divided into 5 modules, below I describe a little of what I learned in each module.</p>
